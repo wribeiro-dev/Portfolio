@@ -1,88 +1,82 @@
-# Portfolio
-Portfolio Game Developer
 
+# William Ribeiro
+### Game Developer | C++ · C# · Unity · Unreal Engine
 
-# 🎮 Willy Ribeiro
-### Game Developer | Gameplay Programmer | Creative Mind
+<img src="img/DSC08828.jpg" width="180" align="right" />
 
-> Turning ideas into interactive experiences.
-
-Passionate about video games, programming and interactive worlds, I'm a Game Developer student at **Gaming Campus Lyon (G-Tech)**. I enjoy bringing ideas to life through code, gameplay mechanics and creative experimentation.
-
-From low-level programming to game engines, I love exploring how things work and building experiences that combine **creativity, logic and player interaction.**
+Étudiant en développement de jeux vidéo à **Gaming Campus Lyon (G-Tech)**, spécialisé en programmation et développement gameplay.
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 🕹️ SFML Game Engine
-A custom game engine developed in C++ using SFML, focused on building reusable systems and interactive gameplay.
-- Game management and architecture
-- Collision systems
+### SFML Game Engine
+<p align="center">
+  <img src="img/sfml-preview.gif" width="80%" />
+</p>
+
+Game engine développé en C++ avec SFML.
+
+- Game architecture & management
+- Collision system
 - Asset management
-- Tiled map integration
+- Tiled integration
 
-🔗 [View project](LIEN_GITHUB_SFML)
+[Repository](LIEN_GITHUB_SFML)
 
-### 🧠 Brain Clicker
-A clicker game built around interactive mechanics, progression and gameplay systems.
+---
 
-- Interactive gameplay
-- Progression mechanics
-- UI and game logic
+### Brain Clicker
+<p align="center">
+  <img src="img/brain-clicker.gif" width="80%" />
+</p>
 
-🔗 [View project](LIEN_GITHUB_BRAIN_CLICKER)
+Clicker game basé sur des mécaniques de progression et d'interaction.
 
-### 🪨 Top-Down Puzzle Game
-A puzzle game where the player interacts with objects and navigates through a world using logic and spatial thinking.
+[Repository](LIEN_GITHUB_BRAIN_CLICKER)
 
-- Top-down gameplay
-- Object interaction
-- Puzzle mechanics
+---
 
-🔗 [View project](LIEN_GITHUB_PUZZLE)
+### Top-Down Puzzle
+<p align="center">
+  <img src="img/puzzle-preview.gif" width="80%" />
+</p>
 
-### 🔐 Steganography — C++ / WinAPI
-A programming project focused on hiding and retrieving information inside BMP images.
+Jeu de réflexion top-down intégrant interactions et mécaniques de puzzle.
 
-- Image manipulation
+[Repository](LIEN_GITHUB_PUZZLE)
+
+---
+
+### Steganography — C++ / WinAPI
+<p align="center">
+  <img src="img/steganography-preview.png" width="80%" />
+</p>
+
+Application de stéganographie permettant de cacher et extraire des données dans des images BMP.
+
 - Binary data processing
-- Encoding and decoding
-- WinAPI interface
+- Encoding & decoding
+- Image manipulation
+- WinAPI
 
-🔗 [View project](LIEN_GITHUB_STEGANOGRAPHY)
-
----
-
-## 🛠️ Tech Stack
-
-### Programming languages
-`C++` · `C#` · `Python`
-
-### Game development
-`SFML` · `Unity` · `Unreal Engine`
-
-### Tools & software
-`Git` · `GitHub` · `Visual Studio` · `Blender`
+[Repository](LIEN_GITHUB_STEGANOGRAPHY)
 
 ---
 
-## 🎯 What drives me
+## Technologies
 
-- Creating engaging gameplay experiences
-- Learning new technologies and solving technical challenges
-- Building systems from scratch
-- Exploring game mechanics, design and programming
-- Turning concepts into playable projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,unity,unreal,visualstudio,git,github,blender" />
+</p>
 
 ---
 
-## 📫 Let's connect
+## Contact
 
-💼 [LinkedIn](YOUR_LINKEDIN)  
-🎮 [GitHub](https://github.com/YOUR_USERNAME)  
-📧 [Email](mailto:YOUR_EMAIL)
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> ·
+  <a href="YOUR_LINKEDIN">LinkedIn</a> ·
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
 
----
-
-⭐ *Always learning. Always creating. Always leveling up.*
