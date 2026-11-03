@@ -2,4 +2,5 @@ title: "William Ribeiro"
 logo: img/DSC08828.jpg
 description: "Portfolio Game Developer
 show_downloads : true
-theme:
+theme: jekyll-theme-architect
+lang: fr
